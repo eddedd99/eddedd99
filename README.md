@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eddedd99
 - 👀 I’m interested in software development and script & shell programming
-- 🌱 I’m currently learning VBS
+- 🌱 I’m currently developing code in VBS
 - 💞️ I’m looking to collaborate on VBS script projects
 - 📫 How to reach me: edcruces99@gmail.com
 
